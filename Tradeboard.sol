@@ -58,7 +58,7 @@ contract Tradeboard {
             trade.accepted,
             trade.fulfilled
         );
-        return trade;
+        return tradeInfo;
         
     }
     
