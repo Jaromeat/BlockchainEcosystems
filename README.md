@@ -12,15 +12,20 @@ We explored Ethereum, Bitcoin, and Tezos as smart contract ecosystems to determi
 1. Smart Contracts written in Solidity
 2. IDE and Testing environment known as Remix
 3. Try it here : https://remix.ethereum.org/
+4. Deployment through Truffle : https://www.trufflesuite.com/docs
 
 ### Bitcoin
 1. Smart Contract Scripts written in Min.sc
 2. Try it here : https://min.sc/
+3. Implement into Javascript with packages :
+* min.sc : https://github.com/shesek/minsc
+* bitcore : https://github.com/bitpay/bitcore
 
 ### Tezos
 1. Smart Contracts written in Python
 2. IDE and Testing environment known as Smartpy
 3. Try it here : https://smartpy.io/
+4. Deployment through Truffle : https://www.trufflesuite.com/docs
 
 ## Contributors
 
